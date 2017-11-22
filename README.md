@@ -1,6 +1,6 @@
 # THChid
 
-เป็นระบบ postag ที่ใช้ CRF ในการ Train ข้อมูล
+เป็นระบบ Part-of-speech tagging ที่ใช้ CRF ในการ Train ข้อมูล
 
 ## รายละเอียด
 
